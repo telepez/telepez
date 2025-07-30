@@ -289,3 +289,11 @@ http://31.121.110.30:4000/play/a008/index.m3u8
 http://31.121.110.30:4000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Reino Unido / UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/The_official_ITV_Quiz_logo.svghttps://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_official_ITV_Quiz_logo.svg/1600px-The_official_ITV_Quiz_logo.svg.png",ITV Quiz
 http://31.121.110.30:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="Reino Unido / UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
+http://31.121.110.30:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="Reino Unido / UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
+http://31.121.110.30:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="Channel.4.hd.uk" group-title="Reino Unido / UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
+http://31.121.110.30:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" group-title="Reino Unido / UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",5
+http://31.121.110.30:4000/play/a006/index.m3u8
