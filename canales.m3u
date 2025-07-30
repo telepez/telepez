@@ -289,3 +289,5 @@ http://31.121.110.30:4000/play/a008/index.m3u8
 http://31.121.110.30:4000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Reino Unido / UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/The_official_ITV_Quiz_logo.svghttps://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_official_ITV_Quiz_logo.svg/1600px-The_official_ITV_Quiz_logo.svg.png",ITV Quiz
 http://31.121.110.30:4000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
