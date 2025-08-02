@@ -43,11 +43,11 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/102227.ts
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png",BET Soul
 http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network 
-http://kstv.us:8080/live/tH300gvHff/8606073792/15959.ts
+#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://telepez.github.io/imagenes/Cartoon_Network.webp",Cartoon Network 
+https://telepez.github.io/telepez480.mp4
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/2880px-CBS_New_York_logo.svg.png",CBS NY (WCBS)
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86148.ts
-#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/KFMB_CBS_8_%282013%2C_single-color_version%29.svghttps://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KFMB_CBS_8_%282013%2C_single-color_version%29.svg/2560px-KFMB_CBS_8_%282013%2C_single-color_version%29.svg.png",CBS San Diego (KFMB)
+#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KFMB_CBS_8_%282013%2C_single-color_version%29.svg/2560px-KFMB_CBS_8_%282013%2C_single-color_version%29.svg.png",CBS San Diego (KFMB)
 http://speccy.pw:8080/live/111111/111111/294703.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png",Discovery en Español 
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110813.ts
@@ -55,7 +55,7 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110813.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110814.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/2/25/Disney_Channel_2024_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20240924230416",Disney Channel 
 http://kstv.us:8080/live/tH300gvHff/8606073792/23332.ts
-#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://uploahttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png",ESPN Deportes
+#EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png",ESPN Deportes
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110817.ts
 #EXTINF:-1 group-title="Estados Unidos / US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/2880px-Fts-los-angeles-a.svg.png",FOX Los Angeles (KTTV)
 http://speccy.pw:8080/live/111111/111111/294861.ts
