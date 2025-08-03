@@ -139,6 +139,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
+http://5.57.74.130:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/NickMusic.webp",NickMusic
 http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",NuestraTele RCN
