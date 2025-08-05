@@ -139,6 +139,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
+https://hometv.andismirre.de/stream/channelid/1082005020?profile=ffmpeg
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246",Cubavision Internacional 
+https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
 http://5.57.74.130:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/NickMusic.webp",NickMusic
