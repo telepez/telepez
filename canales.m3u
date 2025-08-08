@@ -145,10 +145,14 @@ https://hometv.andismirre.de/stream/channelid/1082005020?profile=ffmpeg
 https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
 http://5.57.74.130:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan
+http://94.61.151.242:9981/stream/channelid/1774667032?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/NickMusic.webp",NickMusic
 http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",NuestraTele RCN
 http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png",PRO • TV International 
+http://94.61.151.242:9981/stream/channelid/1346736579?profile=pass
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/RT.webp",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
