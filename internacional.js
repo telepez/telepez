@@ -1,20 +1,20 @@
 const translations = {
   es: {
-    description: "Una lista gratuita de IPTV enfocado en canales de Latinoamérica y Sudamérica. Espejos se actualizan cada 10 minutos.",
+    description: "Una lista gratuita de IPTV más. Espejos se actualizan cada 10 minutos.",
     github: "GitHub",
     mirrors: "Repositorios espejos",
     discord: "Servidor de Discord",
     disclaimer: "Descargo de Responsabilidad"
   },
   en: {
-    description: "A free IPTV service focused on Latin American and South American channels. Mirrors sync every 10 minutes.",
+    description: "Yet another free IPTV service. Mirrors sync every 10 minutes.",
     github: "GitHub",
     mirrors: "Mirrors",
     discord: "Discord server",
     disclaimer: "Disclaimer"
   },
   br: {
-    description: "Uma lista de IPTV gratuita focada em canais latinos e sul-americanos. Os espelhos sincronizam a cada dez minutos.",
+    description: "Apenas mais uma lista de IPTV gratuita. Os espelhos são atualizados a cada 10 minutos.",
     github: "GitHub",
     mirrors: "Repositórios espelho",
     discord: "Servidor Discord",
