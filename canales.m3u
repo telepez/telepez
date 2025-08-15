@@ -173,8 +173,6 @@ http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
 http://170.78.211.115:8000/play/a0mg/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_de_Azteca_7_2024.png",Azteca 7
 http://170.78.211.115:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV_Azteca_Deportes_Network_2024.svg/revision/latest?cb=20240201224901",Azteca Deportes Network 
-http://38.191.43.69:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_Azteca_Uno_2023.webp",Azteca Uno 
 http://170.78.211.115:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe
